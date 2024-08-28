@@ -14,6 +14,7 @@ A Next.js application that utilizes Cohere AI and Google Places API to suggest t
 - Utilizes Next.js for server-side rendering and optimized performance
 - Integrates Cohere AI for natural language processing and generation
 - Leverages Google Places API for accessing attraction data
+- The final data table cells are editable, and also user can remove an entire row
 
 ## Installation
 
@@ -52,7 +53,7 @@ A Next.js application that utilizes Cohere AI and Google Places API to suggest t
 
 1. Enter a location or choose a suggested attraction.
 2. The application will display a list of relevant tourist attractions.
-3. Click on an attraction to view its detailed information, including a description, address, coordinates, and photos.
+3. Click on an attraction to view its detailed information, including a description, address, coordinates, photo, and so on.
 
 ## Contributing
 
